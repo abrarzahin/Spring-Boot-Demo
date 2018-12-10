@@ -1,5 +1,8 @@
 package com.example.demo;
 
+/**
+ * This class is the 'Model' component of the MVC architecture model.
+ */
 public class MyObject
 {
     private String name;

@@ -15,6 +15,16 @@ cd Spring-Boot-Demo
 mvn spring-boot:run
 ```
 
+4. Test your app by visiting the home page of the app:
+```
+http://localhost:8080
+```
+
+5. Test the RESTful controller that returns JSON:
+```
+http://localhost:8080/greeting?name=John&major=ComputerScience
+```
+
 **Note:** if you don't have Maven installed, use the Maven wrapper instead. Example:
 ```
 ./mvnw 
