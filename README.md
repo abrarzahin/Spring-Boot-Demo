@@ -1,4 +1,8 @@
 # Spring Boot Demo
+This tutorial uses the information found in the [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/) tutorial and [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/) tutorial. 
+
+If you're interesting in learning the Spring Framework in greater detail, checkout the guides found [here](https://spring.io/guides/) and read about the core concepts [here] (https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#spring-core)
+
 ### How to run
 1. Clone the repository:
 ```
